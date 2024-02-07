@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-31T12:56:27.953087Z</date>
+  <millis>1706705787953</millis>
+  <nanos>87000</nanos>
+  <sequence>0</sequence>
+  <logger>Logs</logger>
+  <level>FINE</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Suma echa correctamente.</message>
+</record>
+<record>
+  <date>2024-01-31T12:56:40.115668900Z</date>
+  <millis>1706705800115</millis>
+  <nanos>668900</nanos>
+  <sequence>1</sequence>
+  <logger>Logs</logger>
+  <level>FINE</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Multiplo echo correctamente.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-02-07T12:19:42.841779600Z</date>
+  <millis>1707308382841</millis>
+  <nanos>779600</nanos>
+  <sequence>0</sequence>
+  <logger>Logs</logger>
+  <level>FINE</level>
+  <class>principal.Calculadora</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Suma echa correctamente.</message>
+</record>
+</log>
+<HTML>
+ <BODY> 
+<P>
+Suma echa correctamente.
+</P>
+ </BODY>
+</HTML>
